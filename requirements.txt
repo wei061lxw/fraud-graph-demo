@@ -1,0 +1,5 @@
+flask
+networkx
+pyvis
+pytest
+hypothesis
